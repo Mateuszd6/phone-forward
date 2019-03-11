@@ -1,0 +1,18 @@
+// Some notes about the phone_forward.sh script, since it is implssible to add
+// them there.
+
+/**
+@file ./phone_forward.sh
+@brief Skrypt wyznaczjący przeciwobraz funckji @ref phfwdReverse.
+
+Dla podanego numeru y wyznaczy wszystkie takie numery x, że phfwdGet(x) = y.
+Skrypt przyjmuje 3 parametry:
+
+1. Plik wykonywalny programu
+2. Plik z operacjami przekierowania numerów, zawiera ciąg użyć operatora >
+3. Numer y
+
+@author Mateusz Dudziński <md394171@students.mimuw.edu.pl>
+@copyright Uniwersytet Warszawski
+@date 27.05.2018
+*/

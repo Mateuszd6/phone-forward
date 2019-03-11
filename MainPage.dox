@@ -1,0 +1,20 @@
+/**
+@mainpage Dokumentacja zadania telefony
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle'u](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu operacji na numerach telefonów.
+Aktualnie w trakcie implementacji - zaimplementowano dwie części z trzech planowanych.
+
+Obecnie program phone_forward udostępnia wydawanie poleceń w prostym języku
+takich jak tworzenie nowych baz przekierowań, przekierowywanie połączeń i
+wyznaczanie przekierowań.
+
+Dostępny także jest skrypt w bashu, który, po otrzymaniu ścierzki do pliku
+wykonywanego programu oraz ciągu operacji przekierowań, wyznacza przeciwobraz
+wszystkich przekierowań na dany numer.
+*/
